@@ -1,0 +1,6 @@
+A = [1 2 3; 4 5 6];
+mean(A,1)   
+mean(A,2)   
+B = magic(3)
+mean(B,1)
+mean(B,2)
