@@ -1,0 +1,8 @@
+x = 1:10    
+y = 10:-1:1 
+z = x + y  
+plot(x, z, '-o')     % line plot with circles
+xlabel('x values')
+ylabel('z = x+y')
+title('First Plot')
+grid on
