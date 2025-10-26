@@ -1,0 +1,6 @@
+x = 1:10    
+y = 10:-1:1 
+rand(3,3)     
+magic(4)      
+mean(x)       
+sum(y)       
