@@ -1,0 +1,5 @@
+A = magic(4)
+A(:,4)=0
+imagesc(A)
+colorbar
+title('Matrix Visualization')
