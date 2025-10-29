@@ -1,0 +1,5 @@
+x = 1:10;
+big = x(x > 5)   
+small = x( x <= 5 )
+even = x(mod(x,2)==0)  
+odd = x(mod(x,2)==1)
