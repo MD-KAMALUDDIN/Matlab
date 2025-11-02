@@ -1,0 +1,6 @@
+num = randi(10)    
+if num > 5
+    disp('Big number!')
+else
+    disp('Small number!')
+end
