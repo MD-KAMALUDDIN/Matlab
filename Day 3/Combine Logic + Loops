@@ -1,0 +1,8 @@
+x = randi(20,1,10)
+for i = 1:length(x)
+    if x(i) > 10
+        disp([num2str(x(i)) ' is large'])
+    else
+        disp([num2str(x(i)) ' is small'])
+    end
+end
