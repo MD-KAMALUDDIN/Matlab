@@ -1,0 +1,3 @@
+for i = 1:5
+    fprintf('Square of %d is %d\n', i, i^2)
+end
