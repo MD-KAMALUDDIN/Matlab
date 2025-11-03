@@ -1,0 +1,5 @@
+for i = 1:5
+    plot(1:i, (1:i).^2, '-o')
+    pause(0.5)
+end
+grid on
