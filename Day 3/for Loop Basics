@@ -1,0 +1,3 @@
+for i = 1:5
+    disp(['Square of ' num2str(i) ' is ' num2str(i^2)])
+end
