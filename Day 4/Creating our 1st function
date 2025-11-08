@@ -1,0 +1,3 @@
+function out = squareNumber(n)
+out = n.^2;
+end
