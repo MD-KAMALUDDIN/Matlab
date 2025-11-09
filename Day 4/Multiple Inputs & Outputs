@@ -1,0 +1,4 @@
+function [sumVal, diffVal] = addSub(a, b)
+sumVal = a + b;
+diffVal = a - b;
+end
