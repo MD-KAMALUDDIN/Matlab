@@ -1,0 +1,4 @@
+function result = myFunc()
+x = 10;
+result = x^2;
+end
