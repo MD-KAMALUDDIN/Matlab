@@ -1,0 +1,6 @@
+function greet(name)
+if nargin == 0
+    name = 'Guest';
+end
+disp(['Hello, ' name '!'])
+end
